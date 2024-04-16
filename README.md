@@ -1,0 +1,1 @@
+# fanuc_strip_files
